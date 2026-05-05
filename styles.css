@@ -29,4 +29,13 @@ header{
     margin: 0px;
     background: #081b29;
     height: 90px;
+    background: black;
+    color: #ededed;
+    width: 70%;
+    margin: auto;
+}
+
+main{
+    margin: auto;
+    text-align: center;
 }
